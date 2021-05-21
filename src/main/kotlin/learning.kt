@@ -1,3 +1,4 @@
+// This are some of my notes learning Kotlin!
 fun main() {
     // List and Arrays
     var luckyNumbers = listOf(1,2,5,7,9,34)
