@@ -1,3 +1,4 @@
+// This are some of my notes learning Kotlin!
 class Cat {
     var name: String
 
